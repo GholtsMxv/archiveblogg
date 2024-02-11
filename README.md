@@ -1,3 +1,3 @@
-# Jekyll Now
-Gholts Blog
+# Jekyll
+Gholts Blog  
 thanks Jekyll
