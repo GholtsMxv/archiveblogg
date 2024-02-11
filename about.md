@@ -8,13 +8,17 @@ permalink: /about/
 
 ### More Information
 
-滾，
-，
-，
-，
-，
+滾,  
+
+
+
+
 對不起我開玩笑的😭
 
 ### Contact me
-Callme什麼的,通常都是擺設吧
+
+聯絡方式什麼的通常都是擺設吧
+
+
+是的,你幾乎無法用正常的方式聯絡我
 
