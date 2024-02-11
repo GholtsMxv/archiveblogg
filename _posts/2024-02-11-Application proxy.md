@@ -15,7 +15,7 @@ title: 加密上網代議軟體
 
 **iOS**
 - [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)  2.99＄
-- [Quantumult X[(https://apps.apple.com/us/app/quantumult-x/id1443988620)  7.99＄
+- [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)  7.99＄
 - [Surge](https://apps.apple.com/us/app/surge-5/id1442620678)  49.99＄
 - [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) 3.99＄
 - [Loon](https://apps.apple.com/hk/app/loon/id1373567447)  5.99＄
