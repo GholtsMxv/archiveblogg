@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 搜索
+title: Search
 permalink: /search/
 ---
 
@@ -8,7 +8,7 @@ permalink: /search/
 <input
   type="text"
   id="search-input"
-  placeholder="搜索：标题、时间、摘要"
+  placeholder="搜索：標題、時間、摘要"
   style="
     transition: box-shadow .4s ease,background .4s ease,-webkit-box-shadow .4s ease;
     display: inline-block;
@@ -41,7 +41,7 @@ permalink: /search/
     resultsContainer: document.getElementById("results-container"),
     json: "/search.json",
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-    noResultsText: "没有搜索到文章",
+    noResultsText: "沒有找到該文章",
     limit: 20,
     fuzzy: false,
   });
