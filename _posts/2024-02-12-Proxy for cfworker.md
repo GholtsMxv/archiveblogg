@@ -34,7 +34,7 @@ title: 超簡單的cf worker代理免費搭建
 ## 4.導入訂閲鏈接
 
 - 等待Save and deploy按鈕變灰,點擊編輯欄右上角的workers.dev  
-- 打開後在網址後面添加 /你剛才複製到記事本的uuid  
+- 打開後在網址後面添加 /UUID(剛才複製的那個)  
 - 等待網頁加載完成,複製以 vless:// 開頭的一整行代碼,導入[代理軟件](https://gholtsmxv.github.io/Application-proxy/)  
 - 導入後打開編輯界面,關閉tls,把地址一項改爲[優選ip](https://stock.hostmonit.com/CloudFlareYes),端口改爲80,保存
 - 這時候運行代理,打開[Google](https://www.google.com/)測試是否成功.如果失敗,請確保每一步都嚴格按照教程操作.
