@@ -3,9 +3,6 @@ layout: post
 title: 超簡單的cf worker代理免費搭建
 ---
 
->### 前言
->在中國大陸翻墻的方法千千萬萬,**免費速度還快**的翻墻方式有CFworker,WARP+,TeamZeroTrust等等,接下來就是利用CFworker進行翻墻的具體**操作過程**
-
 ## 1.創建cloudflare賬號
 
 - 進入[cloudflare](https://dash.cloudflare.com/sign-up)注冊賬戶(有賬戶的跳過這一步)
