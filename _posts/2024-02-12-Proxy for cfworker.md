@@ -19,12 +19,11 @@ title: 超簡單的cf worker代理免費搭建
 
 ## 3.配置worker内容
 
-- 打開[edgetunnel](https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js)  
+- 打開[EDtunel](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js)
 - 複製全選js文件裏的内容  
 - 返回你剛才創建的worker編輯界面  
 - 刪除默認文件worker.js中的全部文本,將剛才複製的内容粘貼上去  
-- 然後回到頂部,找到 `let userID =` 這行代碼,將等號後面單引號裏的内容替換成新的[uuid](https://1024tools.com/uuid),複製到記事本備用  
-- 在他的找到 `let proxyIP =` 這行代碼,在後面的引號中添加`103.200.112.108`這串ip地址  
+- 然後回到頂部,找到 `let userID =` 這行代碼,將等號後面單引號裏的内容替換成新的[uuid](https://www.uuidgenerator.net/version4),複製到記事本備用  
 - 最後點擊右上角的Save and deploy
 
 
