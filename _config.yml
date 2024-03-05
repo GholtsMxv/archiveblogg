@@ -20,7 +20,6 @@ footer-links:
   dribbble:
   email:
   facebook:
-  telegram: @Null_FGERYCUNTOPLEMGACR
   flickr:
   github: Gholts
   instagram:
@@ -31,6 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  telegram: @Null_FGERYCUNTOPLEMGACR
 
 giscus_repo: GholtsMxv/GholtsMxv.github.io
 giscus_repo_id: R_kgDOLQuzIw
