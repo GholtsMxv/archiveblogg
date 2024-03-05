@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 超簡單的cf worker代理免費搭建
+title: CFworker代理免費搭建
 ---
 
 ## 1.創建cloudflare賬號
