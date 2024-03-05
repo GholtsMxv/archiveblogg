@@ -14,7 +14,7 @@ title: 利用SpotDL下載Spotify音乐
 ## 2.安裝SpotDL
 
 - 新建一個AdministratorCMD窗口任務
-- 依次執行代碼``pip install spotdl`` ``spotdl --download-ffmpeg``
+- 依次執行代碼`pip install spotdl` `spotdl --download-ffmpeg`
 
 ## 3.Enjoy Spotify Music
 
