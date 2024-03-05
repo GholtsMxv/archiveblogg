@@ -32,6 +32,7 @@ giscus_category: Giscus
 giscus_category_id: DIC_kwDOLQuzI84CdJHN
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# Added measurement ID instead of tracking code (which is missing)
 google_analytics: G-JY2LH10V63
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
