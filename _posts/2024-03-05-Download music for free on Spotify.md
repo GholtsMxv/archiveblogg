@@ -3,7 +3,7 @@ layout: post
 title: 利用SpotDL下載Spotify音乐
 ---
 
-## [SpotDL項目地址](https://github.com/spotDL/spotify-downloader/tree/master) ##
+## ※[SpotDL項目地址](https://github.com/spotDL/spotify-downloader/tree/master) ##
   
 ## 1.安裝Python環境
 
