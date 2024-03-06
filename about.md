@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### 這裡是Gholts的blog👆🥸 ###
-
+### 這裡是Gholts的blog👆🥸
 
 ### More Information
 
@@ -19,6 +18,5 @@ permalink: /about/
 
 你可以透過 Telegram or Twitter 聯係我o(￣▽￣)ｄ
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1Dxg6XXOW7aZFiJgen1iyN?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+### xqcL playlist is the best
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1gKIYxGVZBUpkmqamRa60w?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
