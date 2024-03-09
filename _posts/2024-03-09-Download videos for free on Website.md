@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 利用yt-dlp下載幾乎任何影片
+title: 利用YT-DLP下載幾乎任何影片
 ---
 
-## ※[yt-dlp項目地址](https://github.com/yt-dlp/yt-dlp) ##
+## ※[YT-DLP項目地址](https://github.com/yt-dlp/yt-dlp) ##
 
 ## 1.安裝Python環境
 
@@ -35,4 +35,4 @@ title: 利用yt-dlp下載幾乎任何影片
 
 - yt-dlp支持解析下載該[列表](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)内的視頻鏈接
 - 如需指定下載地址,可以使用`-o`或`--output`參數,例如`yt-dlp [影片鏈接] -o "F:/%(title)s.mp4"`
-- 更多詳細配置可以參考[yt-dlp官方文檔](https://github.com/ytdl-org/youtube-dl?tab=readme-ov-file#configuration)
+- 更多詳細配置可以參考[YT-DLP官方文檔](https://github.com/ytdl-org/youtube-dl?tab=readme-ov-file#configuration)
