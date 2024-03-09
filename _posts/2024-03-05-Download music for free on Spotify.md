@@ -16,7 +16,7 @@ title: 利用SpotDL下載Spotify音乐
 - 新建一個AdministratorCMD窗口任務
 - 依次執行代碼`pip install spotdl` `spotdl --download-ffmpeg`
 
-## 3.Enjoy Spotify Music
+## 3.Enjoy
 
 - 輸入代碼`spotdl` `spotdl download +spotify單曲鏈接`或者`spotdl download +spotify歌單鏈接`
 - 默認下載地址在`C:\Users\你的Windows賬戶名`
