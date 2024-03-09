@@ -21,7 +21,7 @@ title: 利用SpotDL下載Spotify音乐
 - 輸入代碼`spotdl` `spotdl download +spotify單曲鏈接`或者`spotdl download +spotify歌單鏈接`即可下載
 - 默認下載地址在`C:\Users\你的Windows賬戶名`
 
-## 4.Advanced Settings
+## 4.Advanced
 
 - 默認配置文件在`C:\Users\你的Windows賬戶名\.spotdl\config.json`
   
