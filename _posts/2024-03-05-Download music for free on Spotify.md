@@ -33,6 +33,5 @@ title: 利用SpotDL下載Spotify音乐
   
 - 更多詳細配置可以參考[SpotDL官方文檔](https://github.com/spotDL/spotify-downloader/blob/master/docs/usage.md)
 
->**注意**  
 >SpotDL 使用 YouTube 作為音樂下載來源, 此方法用於避免與從 Spotify 下載音樂相關的任何問題  
 >使用者應對自己的行為和潛在的法律後果負責。 SpotDL不支援未經授權下載受版權保護的資料，並且對使用者行為不承擔任何責任。
