@@ -29,7 +29,7 @@ title: 利用SpotDL下載Spotify音乐
   
 - ```format``` 是配置下載音頻格式,例如 MP3,M4A 和 OPUS
   
-- 若要啟動 Web UI，請執行 ```spotdl web```,同時修改配置文件中 ```web_use_output_dir``` 項為true
+- 若要啟動 Web UI，請執行 ```spotdl web``` ,同時修改配置文件中 ```web_use_output_dir``` 項為true
   
 - 更多詳細配置可以參考[SpotDL官方文檔](https://github.com/spotDL/spotify-downloader/blob/master/docs/usage.md)
 
