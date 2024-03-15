@@ -3,6 +3,8 @@ layout: post
 title: CFworker代理免費搭建
 ---
 
+## ※[workers項目地址](https://github.com/3Kmfi6HP/EDtunnel) ##
+
 ## 1.創建cloudflare賬號
 
 - 進入[cloudflare](https://dash.cloudflare.com/sign-up)注冊賬戶(有賬戶的跳過這一步)
