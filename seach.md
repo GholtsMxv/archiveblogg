@@ -5,4 +5,4 @@ permalink: /seach/
 ---
 
 
-More Information
+{% include search-lunr.html %}
