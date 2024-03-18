@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Seach
-permalink: /seach/
+title: Search
+permalink: /search/
 ---
 
 
