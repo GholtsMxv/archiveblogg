@@ -152,19 +152,21 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-}
-
-.wrapper-masthead .container {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1000;
-  background-color: #fff; /* 根据您的网站背景色调整 */
+  position: fixed; // 固定位置
+  top: 0; // 顶部对齐
+  left: 0; // 左侧对齐
+  width: 100%; // 宽度为100%
+  z-index: 1000; // 确保顶栏位于页面上其他元素之上
 }
 
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  position: fixed; // 固定位置
+  top: 0; // 顶部对齐
+  left: 0; // 左侧对齐
+  width: 100%; // 宽度为100%
+  z-index: 1000; // 确保顶栏位于页面上其他元素之上
 
   @include mobile {
     text-align: center;
