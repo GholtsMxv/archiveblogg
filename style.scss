@@ -152,21 +152,11 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  position: fixed; // 固定位置
-  top: 0; // 顶部对齐
-  left: 0; // 左侧对齐
-  width: 100%; // 宽度为100%
-  z-index: 1000; // 确保顶栏位于页面上其他元素之上
 }
 
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  position: fixed; // 固定位置
-  top: 0; // 顶部对齐
-  left: 0; // 左侧对齐
-  width: 100%; // 宽度为100%
-  z-index: 1000; // 确保顶栏位于页面上其他元素之上
 
   @include mobile {
     text-align: center;
