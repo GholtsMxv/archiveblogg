@@ -154,6 +154,14 @@ img {
   margin-bottom: 50px;
 }
 
+.wrapper-masthead .container {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: #fff; /* 根据您的网站背景色调整 */
+}
+
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
