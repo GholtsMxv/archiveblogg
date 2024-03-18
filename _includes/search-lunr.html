@@ -60,12 +60,58 @@ function lunr_search(term) {
     .lunrsearchresult a {display: block; color: #777;}
     .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
     .lunrsearchresult a:hover .title {text-decoration: underline;}
+    #lunrsearch {
+        /* 更改背景顏色 */
+        background-color: #f8f9fa;
+
+        /* 更改邊框顏色、寬度和樣式 */
+        border: 1px solid #ced4da;
+
+        /* 更改文字顏色 */
+        color: #495057;
+
+        /* 更改文字大小 */
+        font-size: 16px;
+
+        /* 更改邊框圓角 */
+        border-radius: 8px;
+
+        /* 添加內部填充 */
+        padding: 10px;
+
+        /* 添加外部邊距 */
+        margin: 10px;
+    #submitBtn {
+        /* 更改背景顏色 */
+        background-color: #4A54A1;
+
+        /* 更改文字顏色 */
+        color: white;
+
+        /* 更改邊框 */
+        border: 4px;
+
+        /* 添加內部填充 */
+        padding: 15px 32px;
+
+        /* 更改文字大小 */
+        font-size: 16px;
+
+        /* 更改邊框圓角 */
+        border-radius: 8px;
+
+        /* 更改滑鼠懸停時的顏色 */
+    }
+
+    button:hover {
+        background-color: #787EB3;
+    }
 </style>
 
 
 <form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
     <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" style="width: 300px; height: 25px;" placeholder="Search the page content(°ー°〃)" />
-    <button type="submit" style="width: 75px; height: 25px;">Submit</button></p>
+    <button type="submit" id="submitBtn" style="width: 75px; height: 25px;">Submit</button></p>
 </form>
 <div id="lunrsearchresults">
     <ul></ul>
