@@ -157,10 +157,6 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1000;
 
   @include mobile {
     text-align: center;
